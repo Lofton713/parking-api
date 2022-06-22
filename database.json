@@ -1,0 +1,315 @@
+{
+  "users": [
+    {
+      "id": 7,
+      "name": "Stacy Lofton",
+      "username": "Lofton713",
+      "email": "lofton713@gmail.com",
+      "supporterGroupId": 4,
+      "member": true
+    },
+    {
+      "id": 1,
+      "name": "Walt Lere",
+      "username": "wlere0",
+      "email": "wlere0@sitemeter.com",
+      "member": false
+    },
+    {
+      "id": 2,
+      "name": "Osbourne Sarjeant",
+      "username": "osarjeant1",
+      "email": "osarjeant1@boston.com",
+      "member": false
+    },
+    {
+      "id": 3,
+      "name": "Gail Jenkison",
+      "username": "gjenkison2",
+      "email": "gjenkison2@netscape.com",
+      "member": false
+    },
+    {
+      "id": 4,
+      "name": "Cordie Jales",
+      "username": "cjales3",
+      "email": "cjales3@usa.gov",
+      "member": false
+    },
+    {
+      "id": 5,
+      "name": "Tempo Coyote",
+      "username": "TC615",
+      "email": "TC615@NSC.gov",
+      "member": true
+    },
+    {
+      "id": 4,
+      "name": "Bob Roberts",
+      "username": "NoProbBob",
+      "email": "bob@soccer.com",
+      "member": true
+    },
+    {
+      "name": "Test user2",
+      "username": "testuser2",
+      "email": "test@fake.com",
+      "isMember": true,
+      "id": 8
+    },
+    {
+      "name": "george smith",
+      "username": "georg1",
+      "email": "g@gmail.com",
+      "isMember": false,
+      "id": 9
+    }
+  ],
+  "parkingLots": [
+    {
+      "id": 1,
+      "name": "Jim's House",
+      "price": 20,
+      "address": "1807 Allison Pl",
+      "distance": 0.7,
+      "description": "Jim offers up to 10 spaces in both his front and back yard. Short easy walk to and from the staduim",
+      "userId": 7,
+      "parkingLotTypeId": 1
+    },
+    {
+      "id": 2,
+      "name": "Craighead and Bransford",
+      "price": 30,
+      "address": "400 Craighead",
+      "distance": 0.4,
+      "description": "Just across the streed from Fair Park. Easy access to tailgaiting at Fair Park, but difficult to leave due to proximity to staduim and pedestrian traffic.",
+      "userId": 2,
+      "parkingLotTypeId": 2
+    },
+    {
+      "id": 3,
+      "name": "Fort Negley",
+      "price": 0,
+      "address": "534 Chestnut St",
+      "distance": 2,
+      "description": "Free parking provided by NSC. short 7 minute walk, or you can ride the shuttle for $10 roundtrip",
+      "userId": 3,
+      "parkingLotTypeId": 4
+    },
+    {
+      "id": 4,
+      "name": "NSC provided Lot 5",
+      "price": 20,
+      "address": "Fair Park",
+      "distance": 0.2,
+      "description": "Season Passes for these lots are sold out. A limited number of passes are made available each week",
+      "userId": 4,
+      "parkingLotTypeId": 3
+    },
+    {
+      "id": 5,
+      "name": "Smokin Thighs",
+      "price": 40,
+      "address": "611 Wedgewood Ave",
+      "distance": 0.6,
+      "description": "Great spot if you want to grab some wings and loaded potato salad before the match",
+      "userId": 7,
+      "parkingLotTypeId": 2
+    },
+    {
+      "id": 6,
+      "name": "Tom Edgin's",
+      "price": 16,
+      "address": "521 Fairground Ct",
+      "distance": 0.6,
+      "description": "Season passes still available",
+      "userId": 4,
+      "parkingLotTypeId": 2
+    },
+    {
+      "name": "Stacys Favorite Lot",
+      "price": 15,
+      "address": "001 Back Alley Pkwy",
+      "distance": "1.5",
+      "description": "just a few spots. Get here early!",
+      "userId": 7,
+      "parkingLotTypeId": 2,
+      "id": 8
+    },
+    {
+      "name": "My 2nd favorite spot",
+      "price": 7,
+      "address": "777 lucky street",
+      "distance": "0.7",
+      "description": "consider yourself lucky if you get a spot here",
+      "userId": 7,
+      "parkingLotTypeId": "2",
+      "id": 9
+    }
+  ],
+  "supporterGroups": [
+    {
+      "id": 1,
+      "name": "The Roadies",
+      "description": "The Roadies have fun, maybe have a pop, and lose our voices singing and cheering for Nashville Soccer Club, but being a Supporters Group means more to us. In addition to being a group that welcomes all who cheer for NSC, we actively give back to the community.",
+      "website": "https://www.nscroadies.com/",
+      "parkingLotId": 2
+    },
+    {
+      "id": 2,
+      "name": "The Assembly",
+      "description": "Welcome to the “Circus”, an Assembly of fans near and far, where new and old fans of the beautiful game can come as you are.",
+      "website": "https://www.theassemblynashville.com/",
+      "parkingLotId": 4
+    },
+    {
+      "id": 3,
+      "name": "Eastern Front",
+      "description": "Founded by Middle Tennessee footballers in 2017, Eastern Front is a Recognized Supporters Group designed to enhance the Nashville SC experience, provide a match-focused social setting, and promote the Beautiful Game.",
+      "website": "https://www.easternfrontsg.com/",
+      "parkingLotId": 5
+    },
+    {
+      "id": 4,
+      "name": "Music City Heaters",
+      "description": "So, if you’re interested in joining an awesome fellowship of guys and gals that loves NSC, but doesn’t take itself too seriously, come introduce yourself and we’ll get to know each other over a tall, crisp, refreshing Black Cherry White Claw.",
+      "website": "https://www.facebook.com/musiccityheaters",
+      "parkingLotId": 3
+    },
+    {
+      "id": 5,
+      "name": "La Brigada de Oro",
+      "description": "Founded by our belief “UNITED WE ARE STRONGER” We welcome and embrace diversity and all cultural backgrounds. This is the basis for our club as we are La Brigada De Oro. A brigade of fans. “EN LA UNION ESTA LA FUERZA”.",
+      "website": "https://www.labrigadadeoro.com/",
+      "parkingLotId": 3
+    },
+    {
+      "id": 6,
+      "name": "The MixTape 615",
+      "description": "Welcome to the Mixtape, Inc. My Verse. Our Song. Nashville’s Soundtrack.",
+      "website": "",
+      "parkingLotId": 4
+    }
+  ],
+  "parkingFavorites": [
+    {
+      "id": 2,
+      "parkingLotId": 2,
+      "userId": 2
+    },
+    {
+      "parkingLotId": 4,
+      "userId": 7,
+      "id": 5
+    },
+    {
+      "parkingLotId": 1,
+      "userId": 5,
+      "id": 6
+    },
+    {
+      "parkingLotId": 3,
+      "userId": 5,
+      "id": 10
+    },
+    {
+      "parkingLotId": 1,
+      "userId": 8,
+      "id": 13
+    },
+    {
+      "parkingLotId": 3,
+      "userId": 8,
+      "id": 15
+    },
+    {
+      "parkingLotId": 1,
+      "userId": 9,
+      "id": 16
+    },
+    {
+      "parkingLotId": 2,
+      "userId": 9,
+      "id": 17
+    },
+    {
+      "parkingLotId": 3,
+      "userId": 9,
+      "id": 18
+    },
+    {
+      "parkingLotId": 3,
+      "userId": 7,
+      "id": 19
+    }
+  ],
+  "SGFaves": [
+    {
+      "id": 2,
+      "supporterGroupId": 3,
+      "userId": 3
+    },
+    {
+      "id": 3,
+      "supporterGroupId": 4,
+      "userId": 4
+    },
+    {
+      "userId": 7,
+      "supporterGroupId": 3,
+      "id": 7
+    },
+    {
+      "userId": 5,
+      "supporterGroupId": 1,
+      "id": 11
+    },
+    {
+      "userId": 5,
+      "supporterGroupId": 3,
+      "id": 13
+    },
+    {
+      "userId": 5,
+      "supporterGroupId": 4,
+      "id": 15
+    },
+    {
+      "userId": 8,
+      "supporterGroupId": 1,
+      "id": 18
+    },
+    {
+      "userId": 8,
+      "supporterGroupId": 3,
+      "id": 20
+    },
+    {
+      "userId": 7,
+      "supporterGroupId": 1,
+      "id": 22
+    }
+  ],
+  "parkingLotTypes": [
+    {
+      "id": 1,
+      "type": "private-residential"
+    },
+    {
+      "id": 2,
+      "type": "private-commercial"
+    },
+    {
+      "id": 3,
+      "type": "NSC on-campus"
+    },
+    {
+      "id": 4,
+      "type": "NSC off-campus"
+    },
+    {
+      "id": 5,
+      "type": "private parking company"
+    }
+  ]
+}
