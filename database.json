@@ -91,8 +91,8 @@
       "name": "Fort Negley",
       "price": 0,
       "address": "534 Chestnut St",
-      "distance": 2,
-      "description": "Free parking provided by NSC. short 7 minute walk, or you can ride the shuttle for $10 roundtrip",
+      "distance": 1.7,
+      "description": "Free parking provided by NSC. Good 25 minute walk to stadium, or you can ride the shuttle for $20 roundtrip",
       "userId": 3,
       "parkingLotTypeId": 4
     },
@@ -143,9 +143,30 @@
       "distance": "0.7",
       "description": "consider yourself lucky if you get a spot here",
       "userId": 7,
-      "parkingLotTypeId": "2",
+      "parkingLotTypeId": 2,
       "id": 9
+    },
+    {
+      "name": "Nashville SC Lot 2",
+      "price": 20,
+      "address": "511 Fairground Ct, Nashville, TN 37211",
+      "distance": "0.6",
+      "description": "short walk across Lot 5",
+      "userId": 1,
+      "parkingLotTypeId": 3,
+      "id": 10
+    },
+    {
+      "name": "ACT Security",
+      "price": 20,
+      "address": "625 Smith Ave, Nashville, TN 37203",
+      "distance": "0.6",
+      "description": "consider yourself lucky if you get a spot here",
+      "userId": 1,
+      "parkingLotTypeId": 2,
+      "id": 11
     }
+
   ],
   "supporterGroups": [
     {
@@ -187,7 +208,7 @@
       "id": 6,
       "name": "The MixTape 615",
       "description": "Welcome to the Mixtape, Inc. My Verse. Our Song. Nashville’s Soundtrack.",
-      "website": "",
+      "website": "https://mixtape615.org/home/",
       "parkingLotId": 4
     }
   ],
@@ -241,6 +262,11 @@
       "parkingLotId": 3,
       "userId": 7,
       "id": 19
+    },
+    {
+      "parkingLotId": 1,
+      "userId": 7,
+      "id": 20
     }
   ],
   "SGFaves": [
