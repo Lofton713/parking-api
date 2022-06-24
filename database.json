@@ -166,7 +166,6 @@
       "parkingLotTypeId": 2,
       "id": 11
     }
-
   ],
   "supporterGroups": [
     {
@@ -259,14 +258,29 @@
       "id": 18
     },
     {
-      "parkingLotId": 3,
-      "userId": 7,
-      "id": 19
-    },
-    {
       "parkingLotId": 1,
       "userId": 7,
       "id": 20
+    },
+    {
+      "parkingLotId": 1,
+      "userId": 4,
+      "id": 21
+    },
+    {
+      "parkingLotId": 9,
+      "userId": 4,
+      "id": 22
+    },
+    {
+      "parkingLotId": 8,
+      "userId": 4,
+      "id": 23
+    },
+    {
+      "parkingLotId": 5,
+      "userId": 7,
+      "id": 24
     }
   ],
   "SGFaves": [
@@ -314,6 +328,21 @@
       "userId": 7,
       "supporterGroupId": 1,
       "id": 22
+    },
+    {
+      "userId": 7,
+      "supporterGroupId": 2,
+      "id": 23
+    },
+    {
+      "userId": 7,
+      "supporterGroupId": 3,
+      "id": 24
+    },
+    {
+      "userId": 7,
+      "supporterGroupId": 6,
+      "id": 25
     }
   ],
   "parkingLotTypes": [
@@ -336,6 +365,68 @@
     {
       "id": 5,
       "type": "private parking company"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "userId": 7,
+      "parkingLotId": 1,
+      "comment": "Super easy to get in and out of this spot."
+    },
+    {
+      "userId": 7,
+      "parkingLotId": "1",
+      "comment": "Great location for the price 💸💸💸",
+      "id": 3
+    },
+    {
+      "userId": 7,
+      "parkingLotId": "2",
+      "comment": "Muddy walk to the field if you get caught in the rain 🌦️",
+      "id": 4
+    },
+    {
+      "userId": 4,
+      "parkingLotId": "1",
+      "comment": "Jim is a great guy and even helped direct traffic to let us get out quickly!",
+      "id": 5
+    },
+    {
+      "userId": 4,
+      "parkingLotId": "5",
+      "comment": "Great for pre-match Pints and wings! ",
+      "id": 6
+    },
+    {
+      "userId": 4,
+      "parkingLotId": "5",
+      "comment": "Seating is limited before the games. get there early 👍",
+      "id": 7
+    },
+    {
+      "userId": 5,
+      "parkingLotId": "1",
+      "comment": "Try the loaded potato salad",
+      "id": 8
+    },
+    {
+      "userId": 2,
+      "parkingLotId": "1",
+      "comment": "Try the loaded potato salad",
+      "id": 8
+    },
+    {
+      "userId": 4,
+      "parkingLotId": "1",
+      "comment": "still working?",
+      "id": 9
+    },
+    {
+      "userId": 7,
+      "parkingLotId": "2",
+      "comment": "Very easy access to stadium",
+      "id": 10
     }
   ]
 }
